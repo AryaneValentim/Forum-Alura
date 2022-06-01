@@ -7,7 +7,7 @@ Este projeto consiste apenas a parte do back-end, no qual é utilizado Spring Bo
 Os cursos de referências utilizados são: 
 
 Spring Boot API REST - construa uma API 
-  -Crie aplicações Java com o Spring Boot
+  <li>Crie aplicações Java com o Spring Boot</li>
   -Configura sua aplicação Spring sem o uso de arquivos XML.
   -Acelere seu desenvolvimento web com ajuda do Spring Devtools
   -Aprenda o estilo arquitetural REST
