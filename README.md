@@ -8,23 +8,23 @@ Os cursos de referências utilizados são:
 
 Spring Boot API REST - construa uma API 
   <li>Crie aplicações Java com o Spring Boot</li>
-  -Configura sua aplicação Spring sem o uso de arquivos XML.
-  -Acelere seu desenvolvimento web com ajuda do Spring Devtools
-  -Aprenda o estilo arquitetural REST
-  -Use o Spring Data e Bean Validation
+  <li>Configura sua aplicação Spring sem o uso de arquivos XML.</li>
+  <li>Acelere seu desenvolvimento web com ajuda do Spring Devtools</li>
+  <li>Aprenda o estilo arquitetural REST</li>
+  <li>Use o Spring Data e Bean Validation</li>
   
 Spring Boot API Rest - Segurança da API, Cache e Monitoramento
-  -Pagine e ordene os resultados da API
-  -Melhore desempenho com Spring Cache
-  -Protege a API com Spring Security e JWT
-  -Monitore os endpoints com Spring Boot Actuator e Admin
-  -Documente a API com Swagger
+  <li>Pagine e ordene os resultados da API</li>
+  <li>Melhore desempenho com Spring Cache</li>
+  <li>Protege a API com Spring Security e JWT</li>
+  <li>Monitore os endpoints com Spring Boot Actuator e Admin</li>
+  <li>Documente a API com Swagger</li>
   
 Spring Boot e Teste - Profiles, Testes e Deploy
-  -Atualize a versão do Spring Boot da API
-  -Proteja endpoints baseados em perfil de usuário
-  -Separe configurações em Profiles
-  -Escreva testes automatizados de componentes do Spring Boot
-  -Simule o deploy da API localmente
-  -Utilize Docker na API
-  -Realize o deploy da API no Heroku
+  <li>Atualize a versão do Spring Boot da API</li>
+  <li>Proteja endpoints baseados em perfil de usuário</li>
+  <li>Separe configurações em Profiles</li>
+  <li>Escreva testes automatizados de componentes do Spring Boot</li>
+  <li>Simule o deploy da API localmente</li>
+  <li>Utilize Docker na API</li>
+  <li>Realize o deploy da API no Heroku</li>
