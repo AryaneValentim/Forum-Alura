@@ -13,12 +13,18 @@ Spring Boot API REST - construa uma API
   <li>Aprenda o estilo arquitetural REST</li>
   <li>Use o Spring Data e Bean Validation</li>
   
+  <hr>
+  <br />
+  
 Spring Boot API Rest - Segurança da API, Cache e Monitoramento
   <li>Pagine e ordene os resultados da API</li>
   <li>Melhore desempenho com Spring Cache</li>
   <li>Protege a API com Spring Security e JWT</li>
   <li>Monitore os endpoints com Spring Boot Actuator e Admin</li>
   <li>Documente a API com Swagger</li>
+  
+  <hr>
+  <br />
   
 Spring Boot e Teste - Profiles, Testes e Deploy
   <li>Atualize a versão do Spring Boot da API</li>
@@ -28,3 +34,7 @@ Spring Boot e Teste - Profiles, Testes e Deploy
   <li>Simule o deploy da API localmente</li>
   <li>Utilize Docker na API</li>
   <li>Realize o deploy da API no Heroku</li>
+
+  <hr>
+  <br />
+  
