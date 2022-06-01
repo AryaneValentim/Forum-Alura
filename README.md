@@ -20,7 +20,7 @@ Spring Boot API Rest - Segurança da API, Cache e Monitoramento
   <li>Pagine e ordene os resultados da API</li>
   <li>Melhore desempenho com Spring Cache</li>
   <li>Protege a API com Spring Security e JWT</li>
-  <li>Monitore os endpoints com Spring Boot Actuator e Admin</li>
+  <li>Monitore os endpoints com Spring Boot Actuator</li>
   <li>Documente a API com Swagger</li>
   
   <hr>
