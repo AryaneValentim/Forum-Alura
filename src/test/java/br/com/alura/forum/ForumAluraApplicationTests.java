@@ -8,6 +8,7 @@ class ForumAluraApplicationTests {
 
 	@Test
 	void contextLoads() {
+	
 	}
 
 }

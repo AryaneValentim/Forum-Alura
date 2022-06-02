@@ -21,8 +21,8 @@ import br.com.alura.forum.service.TokenService;
 
 @EnableWebSecurity
 @Configuration
-@Profile("prod")
-public class SecurityConfigurations extends WebSecurityConfigurerAdapter{
+@Profile("dev")
+public class DevSecurityConfigurations extends WebSecurityConfigurerAdapter{
 	
 	@Autowired
 	private AutenticacaoService autenticaoService;
