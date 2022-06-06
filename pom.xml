@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ForumAlura</name>
 	<description>API Rest do Alura Fórum Spring Boot</description>
+
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -95,6 +96,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>forum</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
